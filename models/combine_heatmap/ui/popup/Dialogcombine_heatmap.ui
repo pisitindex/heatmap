@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Dialogcombine_heatmap</class>
+ <widget class="QDialog" name="Dialogcombine_heatmap">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>184</width>
+    <height>97</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>combine_heatmap</string>
+  </property>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
